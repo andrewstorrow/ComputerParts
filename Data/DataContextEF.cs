@@ -1,11 +1,17 @@
 using ComputerParts.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 
 namespace ComputerParts.Data
 {
     public class DataContextEF : DbContext
     {
-        private string _connectionString = "Server=localhost;Database=DotNetCourseDatabase;TrustServerCertificate=true;Trusted_Connection=true";
+        private IConfiguration _config;
+
+        public DataContextEF(IConfiguration config)
+        {
+            _config = config;
+        }
 
         public DbSet<Computer>? Computers { get; set; }
 
@@ -13,7 +19,7 @@ namespace ComputerParts.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(_connectionString,
+                optionsBuilder.UseSqlServer(_config.GetConnectionString("DefaultConnection"),
                 optionsBuilder => optionsBuilder.EnableRetryOnFailure());
             }
         }

@@ -1,0 +1,1035 @@
+--Computers in Database at: 5/27/2023 12:16:38 PM--
+{
+  "ComputerId": 1,
+  "Motherboard": "Jonny",
+  "CPUCores": 5,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "2023-05-29T00:00:00",
+  "Price": 9.9900,
+  "VideoCard": "Hytre00"
+}
+--Computers in Database at: 5/27/2023 12:21:23 PM--
+{
+  "ComputerId": 1,
+  "Motherboard": "Jonny",
+  "CPUCores": 5,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "2023-05-29T00:00:00",
+  "Price": 9.9900,
+  "VideoCard": "Hytre00"
+}
+--Computers in Database at: 5/27/2023 12:22:10 PM--
+{
+  "ComputerId": 1,
+  "Motherboard": "Jonny",
+  "CPUCores": 5,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "2023-05-29T00:00:00",
+  "Price": 9.9900,
+  "VideoCard": "Hytre00"
+}
+--Computers in Database at: 5/27/2023 12:49:00 PM--
+--Computers in Database at: 5/27/2023 1:11:51 PM--
+{
+  "ComputerId": 1,
+  "Motherboard": "Edgepulse",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2013-04-20T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Morar Inc"
+}
+{
+  "ComputerId": 2,
+  "Motherboard": "Teklist",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2019-04-08T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Waters-Hudson"
+}
+{
+  "ComputerId": 3,
+  "Motherboard": "Oyoloo",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2018-01-05T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Jacobs, Grimes and Maggio"
+}
+{
+  "ComputerId": 4,
+  "Motherboard": "Camido",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2017-10-02T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Yundt, Tillman and Lynch"
+}
+{
+  "ComputerId": 5,
+  "Motherboard": "Photobug",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2014-05-15T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Zboncak Group"
+}
+{
+  "ComputerId": 6,
+  "Motherboard": "Edgewire",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2014-07-02T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Windler Group"
+}
+{
+  "ComputerId": 7,
+  "Motherboard": "Tagopia",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2014-03-10T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Cole Group"
+}
+{
+  "ComputerId": 8,
+  "Motherboard": "Oyope",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "2012-01-06T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Rosenbaum Group"
+}
+{
+  "ComputerId": 9,
+  "Motherboard": "Browsecat",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2021-02-12T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Osinski and Sons"
+}
+{
+  "ComputerId": 10,
+  "Motherboard": "Youtags",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2019-02-15T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Muller Inc"
+}
+{
+  "ComputerId": 11,
+  "Motherboard": "Reallinks",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2013-07-09T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Stracke, Wolff and Runte"
+}
+{
+  "ComputerId": 12,
+  "Motherboard": "Plajo",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2014-08-20T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Glover and Sons"
+}
+{
+  "ComputerId": 13,
+  "Motherboard": "Ooba",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "2014-05-29T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Brekke-Goyette"
+}
+{
+  "ComputerId": 14,
+  "Motherboard": "Gabtype",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2014-06-16T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Ernser, Barton and Stokes"
+}
+{
+  "ComputerId": 15,
+  "Motherboard": "Tekfly",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2014-10-13T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Berge, Muller and Kemmer"
+}
+{
+  "ComputerId": 16,
+  "Motherboard": "Realmix",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2016-05-06T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Grady-Bartell"
+}
+{
+  "ComputerId": 17,
+  "Motherboard": "Twiyo",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2010-12-31T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Thompson-Bernhard"
+}
+{
+  "ComputerId": 18,
+  "Motherboard": "Skiptube",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2019-07-24T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Cruickshank, Hackett and Corkery"
+}
+{
+  "ComputerId": 19,
+  "Motherboard": "Gabcube",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2015-03-20T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Robel-O'Hara"
+}
+{
+  "ComputerId": 20,
+  "Motherboard": "Dynazzy",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "1900-01-01T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Konopelski-Beatty"
+}
+{
+  "ComputerId": 21,
+  "Motherboard": "Youfeed",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2017-01-17T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Ortiz and Sons"
+}
+{
+  "ComputerId": 22,
+  "Motherboard": "Trilith",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2013-01-12T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Franecki, Braun and Kutch"
+}
+{
+  "ComputerId": 23,
+  "Motherboard": "Twitterbeat",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "1900-01-01T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Bode, Vandervort and Turcotte"
+}
+{
+  "ComputerId": 24,
+  "Motherboard": "Divanoodle",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2014-10-29T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Schuppe and Sons"
+}
+{
+  "ComputerId": 25,
+  "Motherboard": "Zava",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "1900-01-01T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Trantow, Krajcik and Kreiger"
+}
+{
+  "ComputerId": 26,
+  "Motherboard": "Zoombox",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "1900-01-01T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Anderson LLC"
+}
+{
+  "ComputerId": 27,
+  "Motherboard": "Fatz",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2016-12-17T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Bode-Bins"
+}
+{
+  "ComputerId": 28,
+  "Motherboard": "Skippad",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "2011-03-25T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Mayer-Willms"
+}
+{
+  "ComputerId": 29,
+  "Motherboard": "Chatterbridge",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "1900-01-01T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Bogisich-Hoppe"
+}
+{
+  "ComputerId": 30,
+  "Motherboard": "Demimbu",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "1900-01-01T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Collins, Volkman and Goyette"
+}
+{
+  "ComputerId": 31,
+  "Motherboard": "Flipbug",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2012-03-08T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Mohr and Sons"
+}
+{
+  "ComputerId": 32,
+  "Motherboard": "Feedbug",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2019-08-22T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Conroy, Leannon and Sawayn"
+}
+{
+  "ComputerId": 33,
+  "Motherboard": "Jabbercube",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2013-07-01T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Goldner LLC"
+}
+{
+  "ComputerId": 34,
+  "Motherboard": "Realmix",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2011-09-28T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Johns, Grady and Bayer"
+}
+{
+  "ComputerId": 35,
+  "Motherboard": "Fanoodle",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2011-10-10T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Leuschke-Goodwin"
+}
+{
+  "ComputerId": 36,
+  "Motherboard": "Yodoo",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2014-01-11T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Langworth, Mohr and Huels"
+}
+{
+  "ComputerId": 37,
+  "Motherboard": "Divape",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "2012-04-20T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Lind, Dickens and McCullough"
+}
+{
+  "ComputerId": 38,
+  "Motherboard": "Tagcat",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2021-09-24T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Hartmann-Johns"
+}
+{
+  "ComputerId": 39,
+  "Motherboard": "Linktype",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2017-12-14T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Shields, Kessler and Dietrich"
+}
+{
+  "ComputerId": 40,
+  "Motherboard": "Jabberbean",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "2018-01-24T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Rempel, Zieme and Hamill"
+}
+{
+  "ComputerId": 41,
+  "Motherboard": "Kaymbo",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2020-12-12T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Jacobs LLC"
+}
+{
+  "ComputerId": 42,
+  "Motherboard": "Bubblebox",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "1900-01-01T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Corwin, Schmeler and Connelly"
+}
+{
+  "ComputerId": 43,
+  "Motherboard": "Gabtype",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2020-06-09T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Walker, Schulist and Deckow"
+}
+{
+  "ComputerId": 44,
+  "Motherboard": "Zoombeat",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2014-12-14T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Rosenbaum and Sons"
+}
+{
+  "ComputerId": 45,
+  "Motherboard": "Meetz",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2014-08-12T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Mraz LLC"
+}
+{
+  "ComputerId": 46,
+  "Motherboard": "Tagpad",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "2019-06-24T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Pollich Group"
+}
+{
+  "ComputerId": 47,
+  "Motherboard": "Twinder",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2018-10-27T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Gleason LLC"
+}
+{
+  "ComputerId": 48,
+  "Motherboard": "Jabberstorm",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2016-09-09T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "O'Kon-Baumbach"
+}
+{
+  "ComputerId": 49,
+  "Motherboard": "Devify",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "2020-09-14T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Rodriguez-Waelchi"
+}
+{
+  "ComputerId": 50,
+  "Motherboard": "Blogtags",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2014-09-07T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Welch and Sons"
+}
+{
+  "ComputerId": 51,
+  "Motherboard": "Buzzster",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "1900-01-01T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Purdy, Swaniawski and Schmitt"
+}
+{
+  "ComputerId": 52,
+  "Motherboard": "Twitternation",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2018-05-03T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Stehr Inc"
+}
+{
+  "ComputerId": 53,
+  "Motherboard": "Buzzbean",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "2019-05-08T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Satterfield, Bashirian and Hudson"
+}
+{
+  "ComputerId": 54,
+  "Motherboard": "Browseblab",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "1900-01-01T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Hammes and Sons"
+}
+{
+  "ComputerId": 55,
+  "Motherboard": "Eamia",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2020-07-31T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Parker, Nikolaus and McDermott"
+}
+{
+  "ComputerId": 56,
+  "Motherboard": "Kaymbo",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "1900-01-01T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Spencer Group"
+}
+{
+  "ComputerId": 57,
+  "Motherboard": "Eamia",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2013-12-16T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Sipes, Goyette and Weissnat"
+}
+{
+  "ComputerId": 58,
+  "Motherboard": "Eazzy",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2016-03-10T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Farrell-Williamson"
+}
+{
+  "ComputerId": 59,
+  "Motherboard": "Realbridge",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2013-11-21T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Hoeger Group"
+}
+{
+  "ComputerId": 60,
+  "Motherboard": "Jabberbean",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2012-05-28T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Parisian, Conroy and Upton"
+}
+{
+  "ComputerId": 61,
+  "Motherboard": "Miboo",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2012-08-06T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Beatty Group"
+}
+{
+  "ComputerId": 62,
+  "Motherboard": "Skilith",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "2016-12-02T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Bernier, Crist and Bailey"
+}
+{
+  "ComputerId": 63,
+  "Motherboard": "Ooba",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2021-06-08T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Baumbach, Stehr and Reichel"
+}
+{
+  "ComputerId": 64,
+  "Motherboard": "Tanoodle",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2020-01-05T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Bergnaum-Stiedemann"
+}
+{
+  "ComputerId": 65,
+  "Motherboard": "Minyx",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2012-02-02T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Aufderhar LLC"
+}
+{
+  "ComputerId": 66,
+  "Motherboard": "Gigazoom",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2012-02-09T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Grant, Jast and Hagenes"
+}
+{
+  "ComputerId": 67,
+  "Motherboard": "Jabbertype",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2017-08-26T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Altenwerth Group"
+}
+{
+  "ComputerId": 68,
+  "Motherboard": "Quinu",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "2013-06-02T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Green-Klocko"
+}
+{
+  "ComputerId": 69,
+  "Motherboard": "Zoombeat",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2020-10-06T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Trantow, Nikolaus and Schamberger"
+}
+{
+  "ComputerId": 70,
+  "Motherboard": "JumpXS",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "1900-01-01T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Quigley-Towne"
+}
+{
+  "ComputerId": 71,
+  "Motherboard": "Abatz",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2015-08-06T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Bode, Bechtelar and Hegmann"
+}
+{
+  "ComputerId": 72,
+  "Motherboard": "Ainyx",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "1900-01-01T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Herzog Inc"
+}
+{
+  "ComputerId": 73,
+  "Motherboard": "Minyx",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2015-02-24T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Schiller, Lueilwitz and Bogan"
+}
+{
+  "ComputerId": 74,
+  "Motherboard": "Cogidoo",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2021-08-11T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Cartwright LLC"
+}
+{
+  "ComputerId": 75,
+  "Motherboard": "Katz",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "2014-09-18T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Lowe Group"
+}
+{
+  "ComputerId": 76,
+  "Motherboard": "Jatri",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2018-05-11T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Hand Inc"
+}
+{
+  "ComputerId": 77,
+  "Motherboard": "Meevee",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2016-06-20T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Bogisich, Lowe and Purdy"
+}
+{
+  "ComputerId": 78,
+  "Motherboard": "Teklist",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2017-08-13T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Fritsch-Lemke"
+}
+{
+  "ComputerId": 79,
+  "Motherboard": "Tagcat",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2011-11-12T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Will Inc"
+}
+{
+  "ComputerId": 80,
+  "Motherboard": "Mudo",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2014-01-14T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Stehr, Pouros and Kunde"
+}
+{
+  "ComputerId": 81,
+  "Motherboard": "Devpulse",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2011-06-25T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Olson-Wuckert"
+}
+{
+  "ComputerId": 82,
+  "Motherboard": "Ozu",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2014-07-28T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Johnson, Hills and Ratke"
+}
+{
+  "ComputerId": 83,
+  "Motherboard": "Roombo",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "2019-08-13T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Ratke-Fritsch"
+}
+{
+  "ComputerId": 84,
+  "Motherboard": "Topiczoom",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2019-04-07T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Lind, Block and Gleichner"
+}
+{
+  "ComputerId": 85,
+  "Motherboard": "Agimba",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "2016-01-30T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Lesch and Sons"
+}
+{
+  "ComputerId": 86,
+  "Motherboard": "Realmix",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "2019-06-24T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Haag, Dare and Nolan"
+}
+{
+  "ComputerId": 87,
+  "Motherboard": "Realpoint",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2013-07-18T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Kihn Group"
+}
+{
+  "ComputerId": 88,
+  "Motherboard": "Innotype",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2020-12-24T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Batz LLC"
+}
+{
+  "ComputerId": 89,
+  "Motherboard": "Riffpath",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2018-05-06T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Sporer, Kohler and Auer"
+}
+{
+  "ComputerId": 90,
+  "Motherboard": "Twitterbridge",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2018-10-31T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Dach Group"
+}
+{
+  "ComputerId": 91,
+  "Motherboard": "Realbridge",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2016-01-03T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Reilly Inc"
+}
+{
+  "ComputerId": 92,
+  "Motherboard": "Wikizz",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2019-01-01T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Toy-Ondricka"
+}
+{
+  "ComputerId": 93,
+  "Motherboard": "Jetpulse",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2013-10-04T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Steuber-Mohr"
+}
+{
+  "ComputerId": 94,
+  "Motherboard": "Innojam",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2012-03-11T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Pollich, Ferry and Kuhic"
+}
+{
+  "ComputerId": 95,
+  "Motherboard": "Skyba",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2021-11-02T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "King-Gerhold"
+}
+{
+  "ComputerId": 96,
+  "Motherboard": "Oyondu",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": false,
+  "ReleaseDate": "2016-06-02T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Bashirian-Medhurst"
+}
+{
+  "ComputerId": 97,
+  "Motherboard": "Twitternation",
+  "CPUCores": null,
+  "HasWifi": true,
+  "HasLTE": true,
+  "ReleaseDate": "2012-10-02T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Strosin Group"
+}
+{
+  "ComputerId": 98,
+  "Motherboard": "Tazz",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "2011-06-03T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Schowalter-Stark"
+}
+{
+  "ComputerId": 99,
+  "Motherboard": "Brainbox",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": true,
+  "ReleaseDate": "2013-06-21T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "O'Kon, Hagenes and Bashirian"
+}
+{
+  "ComputerId": 100,
+  "Motherboard": "Gabtune",
+  "CPUCores": null,
+  "HasWifi": false,
+  "HasLTE": false,
+  "ReleaseDate": "1900-01-01T00:00:00",
+  "Price": 0.0000,
+  "VideoCard": "Thompson Inc"
+}
